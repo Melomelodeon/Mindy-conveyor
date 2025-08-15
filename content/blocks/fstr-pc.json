@@ -1,15 +1,15 @@
 {
-//details
+
     "type": "StackConveyor",
     "name": "Silicon Conveyor"
     "description": "Transports batches of items at over 85 items per second",
      "details": "Pretty expensive for what it does",
-//specs
+
     "category": "distribution",
     "health": 90,
     "speed": 0.15,
     "displayedSpeed": 25,
-//requirements
+
     "requirements": [
         {"item": "copper", "amount": 1},
         {"item": "lead", "amount": 2},
