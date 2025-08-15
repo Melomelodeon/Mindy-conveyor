@@ -1,15 +1,15 @@
 {
-//details
+
   "type": "ItemBridge",
   "name": "Thorium Bridge",
   "description": "Transports items over buildings and terrain, extends up to 10 blocks",
-//specs
+
   "health": 70,
   "range": 11,
   "transportTime": 1,
   "hasPower": false,
   "category": "distribution",
-//requirements
+
   "requirements": [
     {
       "item": "lead",
