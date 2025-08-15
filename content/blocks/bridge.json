@@ -1,15 +1,15 @@
 {
-//details
+
   "type": "ItemBridge",
   "name": "Bridge",
   "description": "A bridge exclusive to bodies of water, extends up to 5 blocks",
   "category": "distribution",
-//specs
+
   "health": 50,
   "requiresWater": true,
   "range": 6,
   "transportTime": 2,
-//requirements 
+
   "requirements": [
     {
       "item": "lead",

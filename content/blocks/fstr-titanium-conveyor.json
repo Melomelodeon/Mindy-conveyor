@@ -1,17 +1,15 @@
 {
-//details
+
     "type": "Conveyor",
     "name": "Alloy Conveyor",
     "description": "Faster than a titanium conveyor, more expensive"
     "details": "fix your clogging problems"
     
-//specs  
     "category": "distribution",
     "health": 80,
     "speed": 0.19,
     "displayedSpeed": 20,
     
-//requirements
     "requirements": [
         {"item": "copper", "amount": 2},
         {"item": "lead", "amount": 2},

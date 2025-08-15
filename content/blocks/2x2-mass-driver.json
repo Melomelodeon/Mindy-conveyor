@@ -1,10 +1,10 @@
 {
-//details
+
 	"type": "massDriver",
 	"name": "2x2 Mass Driver"
 	"details": "Primarily used for skipping above obstacles"
 	"category": "distribution",
-//specs
+
 	"health": 180,
 	"size": 2,
 	"speed": 300,
@@ -12,7 +12,7 @@
 	"minDistribute": 40,
 	"reloadTime": 90,
 	"range": 300,
-//requirements
+
 	"consumes":
 	{
 		"power": 0.50
