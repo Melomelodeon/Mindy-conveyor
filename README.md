@@ -17,10 +17,6 @@
 
 ## 🆕 What's New in v1.0.5
 
-- ⚖️ **Balance Changes**
-  - Adjusted health, speed, and resource costs for multiple blocks.
-  - Improved progression curve for mid- and late-game logistics.
-
 - 🛠️ **Bug Fixes**
   - Fixed JSON formatting errors across all block files.
   - Resolved crashes caused by invalid syntax in research trees.
