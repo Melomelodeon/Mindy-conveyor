@@ -1,35 +1,31 @@
 {
-
-	"type": "massDriver",
-	"name": "2x2 Mass Driver"
-	"details": "Primarily used for skipping above obstacles"
-	"category": "distribution",
-
-	"health": 180,
-	"size": 2,
-	"speed": 300,
-	"itemCapacity": 80,
-	"minDistribute": 40,
-	"reloadTime": 90,
-	"range": 300,
-
-	"consumes":
-	{
-		"power": 0.50
-	},
-	"requirements": [
-		{ "item": "titanium", "amount": 40 },
-		{ "item": "lead", "amount": 30 },
-		{ "item": "thorium", "amount": 20 },
-		{ "item": "silicon", "amount": 60 }
-	],
-	"research": {
-	    parent: mass-driver
-	    requirements: [
-            thorium/500,
-	    copper/3000,
-	    titanium/3000,
-	    silicon/500,
-	    ]
-	}
+  "type": "massDriver",
+  "name": "2x2 Mass Driver",
+  "details": "Primarily used for skipping above obstacles",
+  "category": "distribution",
+  "health": 180,
+  "size": 2,
+  "speed": 300,
+  "itemCapacity": 80,
+  "minDistribute": 40,
+  "reloadTime": 90,
+  "range": 300,
+  "consumes": {
+    "power": 0.50
+  },
+  "requirements": [
+    { "item": "titanium", "amount": 40 },
+    { "item": "lead", "amount": 30 },
+    { "item": "thorium", "amount": 20 },
+    { "item": "silicon", "amount": 60 }
+  ],
+  "research": {
+    "parent": "mass-driver",
+    "requirements": [
+      "thorium/500",
+      "copper/3000",
+      "titanium/3000",
+      "silicon/500"
+    ]
+  }
 }
