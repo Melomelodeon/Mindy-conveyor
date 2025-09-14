@@ -7,7 +7,7 @@
     
     "category": "distribution",
     "health": 80,
-    "speed": 0.19,
+    "speed": 0.20,
     "displayedSpeed": 20,
     
     "requirements": [
@@ -18,7 +18,7 @@
         {"item": "titanium", "amount": 1}
     ],
     "research": {
-      parent: "titanium-conveyor"
+      parent: "titanium-conveyor",
       requirements: [
       copper/100,
       titanium/100,
