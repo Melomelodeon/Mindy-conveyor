@@ -1,29 +1,26 @@
 {
-
-    "type": "Conveyor",
-    "name": "Alloy Conveyor",
-    "description": "Faster than a titanium conveyor, more expensive"
-    "details": "fix your clogging problems"
-    
-    "category": "distribution",
-    "health": 80,
-    "speed": 0.20,
-    "displayedSpeed": 20,
-    
+  "type": "Conveyor",
+  "name": "Alloy Conveyor",
+  "description": "Faster than a titanium conveyor, more expensive",
+  "details": "fix your clogging problems",
+  "category": "distribution",
+  "health": 80,
+  "speed": 0.20,
+  "displayedSpeed": 20,
+  "requirements": [
+    { "item": "copper", "amount": 2 },
+    { "item": "lead", "amount": 2 },
+    { "item": "silicon", "amount": 1 },
+    { "item": "thorium", "amount": 1 },
+    { "item": "titanium", "amount": 1 }
+  ],
+  "research": {
+    "parent": "titanium-conveyor",
     "requirements": [
-        {"item": "copper", "amount": 2},
-        {"item": "lead", "amount": 2},
-        {"item": "silicon", "amount": 1},
-        {"item": "thorium", "amount": 1},
-        {"item": "titanium", "amount": 1}
-    ],
-    "research": {
-      parent: "titanium-conveyor",
-      requirements: [
-      copper/100,
-      titanium/100,
-      thorium/100,
-      silicon/90
-      ]
+      "copper/100",
+      "titanium/100",
+      "thorium/100",
+      "silicon/90"
+    ]
   }
 }
