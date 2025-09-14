@@ -1,7 +1,5 @@
 # Preview
-v1.0.4  
-•preview changed  
-•re-textured conveyors  
+v1.0.5   
 •balance changes
 
 ![Test Image 1](Screenshot_5.png)
