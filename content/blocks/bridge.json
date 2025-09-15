@@ -10,7 +10,7 @@
   "requirements": [
     { "item": "lead", "amount": 5 },
     { "item": "metaglass", "amount": 5 },
-    { "item": "titanium", "amount": 10 }
+    { "item": "titanium", "amount": 5 }
   ],
   "hasPower": false,
   "research": {

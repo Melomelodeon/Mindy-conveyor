@@ -2,7 +2,7 @@
   "type": "Conveyor",
   "name": "Alloy Conveyor",
   "description": "Faster than a titanium conveyor, more expensive",
-  "details": "fix your clogging problems",
+  "details": "Runs at 125% the speed of a titanium conveyor",
   "category": "distribution",
   "health": 80,
   "speed": 0.20,
@@ -10,7 +10,6 @@
   "requirements": [
     { "item": "copper", "amount": 2 },
     { "item": "lead", "amount": 2 },
-    { "item": "silicon", "amount": 1 },
     { "item": "thorium", "amount": 1 },
     { "item": "titanium", "amount": 1 }
   ],

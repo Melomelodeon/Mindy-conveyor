@@ -2,17 +2,15 @@
   "type": "StackConveyor",
   "name": "Silicon Conveyor",
   "description": "Transports batches of items at over 85 items per second",
-  "details": "Pretty expensive for what it does",
+  "details": "Runs at 125% the speed of a plastanium conveyor",
   "category": "distribution",
   "health": 90,
   "speed": 0.15,
   "displayedSpeed": 25,
   "requirements": [
-    { "item": "copper", "amount": 1 },
-    { "item": "lead", "amount": 2 },
-    { "item": "titanium", "amount": 2 },
-    { "item": "graphite", "amount": 1 },
-    { "item": "silicon", "amount": 1 }
+    { "item": "thorium", "amount": 1 },
+    { "item": "silicon", "amount": 1 },
+    { "item": "plastanium", "amount": 2 }
   ],
   "research": {
     "parent": "plastanium-conveyor",

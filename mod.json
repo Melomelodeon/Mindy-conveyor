@@ -1,9 +1,8 @@
 {
-//details
     "name": "fstrcnvyrs",
     "displayName": "Definitely Balanced Conveyors",
     "author": "Rhoo",
     "description": "Adds a few distribution blocks... very few distribution blocks",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "minGameVersion": 137
 }
