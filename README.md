@@ -61,10 +61,10 @@
 
 ### Thorium Bridge
 ![Thorium Bridge](sprites/blocks/distribution/lngr-bridge.png)
-*Long-range item bridge with improved durability. Transports items over buildings and terrain, extends up to 10 blocks.*
+*Long-range item bridge with improved durability. Transports items over buildings and terrain, extends up to 11 blocks.*
 
 - **Type:** Item Bridge
-- **Range:** 11 blocks
+- **Range:** 12 blocks
 - **Transport Time:** 1
 - **Health:** 70
 - **Build Cost:** 5 Lead, 10 Thorium, 10 Titanium
@@ -88,12 +88,13 @@
 
 ---
 
-## 🆕 What's New in v1.0.5
+## 🆕 What's New in v1.0.6
 
 - 🛠️ **Bug Fixes**
   - Fixed JSON formatting errors across all block files.
   - Resolved crashes caused by invalid syntax in research trees.
   - Resprite both bridge conveyors
+  - Buffed the thorium conveyor
 
 ---
 
