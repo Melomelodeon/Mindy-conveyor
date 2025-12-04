@@ -1,5 +1,5 @@
 
-# 🚚 Definitely Balanced Conveyors
+# Definitely Balanced Conveyors
 
 **Version:** v1.0.5  
 **Author:** Melomelodeon    
